@@ -1,0 +1,60 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+nav{
+    background-color: black;
+    padding: 15px;
+    color: antiquewhite;
+}
+h1{
+    text-align: center;
+}
+ul,li{
+    display: inline;
+    color: gray;
+}
+ul{
+    margin-left: 43%;
+}
+li:hover{
+    cursor: pointer;
+    color: white;
+}
+.box1{
+    padding: 15px;
+    display: inline-block;
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    margin: 21px;
+    width: 300px;
+}
+.box1:hover{
+    background-color: black;
+    color: aliceblue;
+    cursor: pointer;
+}
+button{
+    border-width: 2px ;
+    border-color: aliceblue;
+    border-style: solid;
+    margin: 10px;
+}
+button:hover{
+    background-color:black;
+    color: aliceblue;
+}
+form{
+    text-align: center;
+}
+table{
+   
+    margin-left: 40%;
+}
+td{
+    padding: 10px;
+}
+.bt{
+    margin-left: 50%;
+}
